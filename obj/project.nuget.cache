@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "nnNAzlinAWzfnJ/CaU8ib4gl4PItP6qeSz+u8G/77DABASp+HlGbs8jZNu3mogaOUOfoP2/Jie3okSmOdEzabQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Miu\\Suli\\EKKE\\MAGPROG\\x8pvz1\\repterek\\repterek.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Miu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\Miu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Miu\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Miu\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
